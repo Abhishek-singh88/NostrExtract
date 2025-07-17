@@ -1,0 +1,8 @@
+{
+  "name": "NostrExtract",
+  "description": "Summarize articles from URLs using Gemini AI.",
+  "author": "Abhishek Singh",
+  "version": "1.0.0",
+  "entry": "https://your-vercel-domain.vercel.app",
+  "permissions": ["clipboard", "network"]
+}
