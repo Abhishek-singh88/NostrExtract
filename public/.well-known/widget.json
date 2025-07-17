@@ -1,14 +1,11 @@
 {
-  "name": "NostrExtract",
-  "description": "Summarize any article using Gemini AI.",
-  "type": "tool",
-  "url": "https://nostr-extract.vercel.app/",
-  "image": "https://nostr-extract.vercel.app/.well-known/logo.png",
-  "button": {
-    "label": "Summarize Article",
-    "type": "app"
+  "pubkey": "0beb5a360b85ead3214a25a6efaf382a48905017630420fcbf579d543febdecb",
+  "widget": {
+    "title": "NostrExtract",
+    "appUrl": "https://nostr-extract.vercel.app",
+    "iconUrl": "https://nostr-extract.vercel.app/favicon.ico",
+    "imageUrl": "https://nostr-extract.vercel.app/.well-known/logo.png",
+    "buttonTitle": "Summarize Article",
+    "tags": ["tool", "utility", "nostr"]
   }
 }
-
-
-
